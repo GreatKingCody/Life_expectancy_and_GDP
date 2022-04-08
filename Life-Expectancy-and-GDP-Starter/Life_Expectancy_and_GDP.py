@@ -103,4 +103,5 @@ linereg(usa, 'GDP', 'Life_Expectancy')
 linereg(zimbabwe, 'GDP', 'Life_Expectancy')
 
 
-
+#As GDP increaces over the years, so does life expectancy. The same code can be used with modificationsin order to look at the 'Year' vs 'Life expectancy'
+#I expect to see the same kind of positive trend as we see with GDP increace.
